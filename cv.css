@@ -1,0 +1,79 @@
+.resimSlider{
+
+    height: 600px;
+}
+body{
+    background-color:#fffaf0;
+    padding-top: 50px;
+    font-family: 'Kaisei HarunoUmi', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.hakkimizda{
+    background-color: #fffaf0;
+}
+.hakkimdacizgi{
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.hakkimdaicon{
+    color:#343a40;
+    position: relative;
+    top: -55px;
+    font-size: 30px;
+}
+.linkedinlink{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+.linklercizgi{
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.linklericon{
+    color:#343a40;
+    position: relative;
+    top: -55px;
+    font-size: 25px;
+}
+.githublink{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+.cardbodybir{
+    background-color:#fffaf0;
+}
+.cardbodyiki{
+    background-color: #fffaf0;
+}
+.cardbodyuc{
+    background-color: #fffaf0;
+}
+.cardbodydort{
+    background-color: #fffaf0;
+}
+.hedefcard>img:hover{
+    opacity: 0.8;
+
+}
+.iletisimcizgi{
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.iletisimicon{
+    color:#343a40;
+    position: relative;
+    top: -55px;
+    font-size: 25px;
+}
+.iletisiminput{
+    background-color: #fffaf0;
+}
